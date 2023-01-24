@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # anything in file
-week1/*
+/week_1/*
